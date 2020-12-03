@@ -1,2 +1,3 @@
 # WHO-Baby-Weight-Shiny-App
-This app shows the WHO recommended baby weight gain curve on specific period
+Shiny App to display baby weight according to WHO child growth standards 
+
